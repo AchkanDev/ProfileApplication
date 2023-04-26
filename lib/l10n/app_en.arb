@@ -1,0 +1,15 @@
+{
+    "profileTitle": "My Profile",
+    "name": "Ashkan Abavi",
+    "job": "Flutter Developer",
+    "location": "Mashhad, Iran",
+    "summary": "Computer engineer graduated from Shahrood University of Technology Flutter and node.js programming\n Interested in becoming a senior in Flutter programming.",
+    "selectedLanguage": "Selected Language",
+    "enLanguage": "English",
+    "faLanguage": "Farsi",
+    "skills": "Skills",
+    "personalInformation": "Personal Information",
+    "email": "Email",
+    "password": "Password",
+    "save": "Save"
+}
